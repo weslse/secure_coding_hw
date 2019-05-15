@@ -18,8 +18,5 @@
     <ClCompile Include="p01_190417.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="D:\University\2019\4-1\Secure Coding\p01_190501.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
